@@ -6,6 +6,7 @@ Snoka Maintenance Mode is a WordPress plugin that enables site administrators to
 - **Customizable Maintenance Message**: Easily customize the maintenance message displayed to visitors.
 - **Selectable HTTP Response Codes**: Choose the appropriate HTTP response code to send while in maintenance mode.
 - **Retry-After Header**: Configure the `Retry-After` HTTP header to inform search engines and users when to expect the site to be available again.
+- **Clears Cache**: Clears cache from various caching plugins upon activation of maintenance mode. Currently supports WP Fastest Cache, W3 Total Cache, WP Super Cache, and WP Rocket
 
 ## Installation
 
