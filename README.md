@@ -1,6 +1,8 @@
 # Snoka Maintenance Mode
 Snoka Maintenance Mode is a WordPress plugin that enables site administrators to activate maintenance mode with customizable options. It offers an easy way to temporarily make your site unavailable to the public while allowing administrators to access the site for updates, maintenance, or any administration work.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1FDHVR)
+
 ## Features
 
 - **Customizable Maintenance Message**: Easily customize the maintenance message displayed to visitors.
